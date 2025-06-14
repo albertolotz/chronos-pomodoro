@@ -2,19 +2,18 @@ import './assets/styles/theme.css';
 import './assets/styles/global.css';
 
 import { Container } from './components/Container';
-
-//import { Heading } from './components/Heading';
-//import { TimerIcon } from 'lucide-react';
+import { Logo } from './components/Logo/index';
+import { Menu } from './components/Menu';
 
 export function App() {
   return (
     <>
       <Container>
-        <section>Logo</section>
+        <Logo />
       </Container>
 
       <Container>
-        <section>Menu</section>
+        <Menu />
       </Container>
 
       <Container>
