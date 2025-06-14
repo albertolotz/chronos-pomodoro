@@ -1,5 +1,5 @@
 import type React from 'react';
-import styles from './defaultInput.module.css';
+import styles from './styles.module.css';
 
 type DefaultInputProps = {
   id: string;
