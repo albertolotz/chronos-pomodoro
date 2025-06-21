@@ -1,9 +1,10 @@
+import type { HomeProps } from '../../pages/home';
 import styles from './styles.module.css';
 
-export function CountDown() {
+export function CountDown({ state }: HomeProps) {
   return (
     <div className={styles.countdown}>
-      <span>00:00</span>
+      <span>{state.formattedSecondsRemaning}</span>
     </div>
   );
 }
