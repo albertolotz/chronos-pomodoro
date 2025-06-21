@@ -1,0 +1,7 @@
+-->Criar pasta e subpastas:
+new file
+Ex: pasta/subpastas/arquivo.ext
+
+snippets
+C:\Users\lotzAlberto\AppData\Roaming\Code\User\snippets\typescriptreact.json
+
