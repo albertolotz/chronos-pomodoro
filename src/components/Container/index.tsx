@@ -7,7 +7,7 @@ export function Container({ children }: ContainerProps) {
     <div className={styles.container}>
       <div className={styles.content}>
         <section>
-          <p>{children}</p>
+          <div>{children}</div>
         </section>
       </div>
     </div>
