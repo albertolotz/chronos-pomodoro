@@ -5,3 +5,28 @@ Ex: pasta/subpastas/arquivo.ext
 snippets
 C:\Users\lotzAlberto\AppData\Roaming\Code\User\snippets\typescriptreact.json
 
+https://chronos-pomodoro-private.vercel.app/
+
+vite:
+nmp create vite@latest -> cria um novo projeto em vite
+
+voltar ultimo commit
+git add .
+git reset --hard
+
+npm install lucide-react = pacote de ícones
+
+Ctrl . => abre janela de opção para importar quando erro
+Ctrl P => abre barra de  pesquisa superior
+Ctrl + Shft + p => reload window => reinicia VS Code
+
+Mudar várias palavras ao mesmo tempo
+1: selecionar a palavra
+2: Crtl F
+3: mudar nome = marcar opção presev case
+
+emmet abreviation -- completa automatico as coisas
+lorem6 - coloca 6 palavras
+comentar jsx - seleção + ctrl + barra
+
+Abrir janela de emoji: tecla windows + . ou ;
